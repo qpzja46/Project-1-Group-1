@@ -1,0 +1,49 @@
+City,Month,High_avg,Low_avg
+Chicago,January,32,21
+Chicago,February,36,26
+Chicago,March,45,34
+Chicago,April,56,43
+Chicago,May,66,53
+Chicago,June,77,63
+Chicago,July,82,70
+Chicago,August,81,70
+Chicago,September,74,62
+Chicago,October,62,50
+Chicago,November,49,39
+Chicago,December,37,27
+Los Angeles,January,70,52
+Los Angeles,February,73,55
+Los Angeles,March,70,52
+Los Angeles,April,73,55
+Los Angeles,May,75,58
+Los Angeles,June,79,62
+Los Angeles,July,83,65
+Los Angeles,August,84,66
+Los Angeles,September,83,65
+Los Angeles,October,79,60
+Los Angeles,November,73,53
+Los Angeles,December,68,49
+Austin,January,61,40
+Austin,February,65,44
+Austin,March,73,51
+Austin,April,80,58
+Austin,May,86,66
+Austin,June,92,72
+Austin,July,96,74
+Austin,August,96,74
+Austin,September,90,69
+Austin,October,82,60
+Austin,November,71,50
+Austin,December,63,42
+New York,January,39,27
+New York,February,42,28
+New York,March,50,35
+New York,April,62,45
+New York,May,72,54
+New York,June,80,64
+New York,July,85,69
+New York,August,84,68
+New York,September,76,61
+New York,October,65,50
+New York,November,54,42
+New York,December,44,32
