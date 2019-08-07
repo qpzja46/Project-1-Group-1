@@ -1,12 +1,13 @@
-Welcome to Team Awesome's Project 1 Repo
+# Welcome to Team Awesome's Project 1 Repo
 
-Team members:
+Team members
+-------
 Jay Jung
 Lisa Hu
 Marc Palomo
 
 In this repo you will find the following information:
-
+-------
 "Crime_Data" contains all our crime data referenced in our code.
 
 "Pictures" contains all of our final png files exported from our code.
@@ -17,7 +18,7 @@ in the PowerPoint presentation.
 
 The following files are the final versions of our code and their corresponding
 config files used to create the Heatmaps:
-
+------
 AustinCrime&WeatherCode.ipynb
 configMP
 
@@ -32,5 +33,6 @@ unused pictures from old versions of our code, and unused data files
 from old iterations of our project.
 
 Our Presentation can be found at the following hyperlink or is available in the file
+-------
 "Group 1 Presentation Final":
 https://docs.google.com/presentation/d/161DhwY9SUTK-t8iSncBApY-dzmQGNeYy6Tlq93eYBI8/edit#slide=id.p6
