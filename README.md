@@ -40,3 +40,10 @@ Our Presentation can be found at the following hyperlink or is available in the 
 -------
 Group 1 Presentation Final":
 https://docs.google.com/presentation/d/161DhwY9SUTK-t8iSncBApY-dzmQGNeYy6Tlq93eYBI8/edit#slide=id.p
+
+Contributor
+-----
+Jay Jung
+Lisa Hu
+Marc Palomo
+
