@@ -43,7 +43,5 @@ https://docs.google.com/presentation/d/161DhwY9SUTK-t8iSncBApY-dzmQGNeYy6Tlq93eY
 
 Contributor
 -----
-Jay Jung
-Lisa Hu
-Marc Palomo
+Jay Jung, Lisa Hu, and Marc Palomo
 
